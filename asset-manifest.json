@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-projects-23-quiz-main/static/css/main.01fe1c5c.chunk.css",
+    "main.js": "/react-projects-23-quiz-main/static/js/main.75f20a2a.chunk.js",
+    "main.js.map": "/react-projects-23-quiz-main/static/js/main.75f20a2a.chunk.js.map",
+    "runtime-main.js": "/react-projects-23-quiz-main/static/js/runtime-main.d139f234.js",
+    "runtime-main.js.map": "/react-projects-23-quiz-main/static/js/runtime-main.d139f234.js.map",
+    "static/js/2.b6b697d4.chunk.js": "/react-projects-23-quiz-main/static/js/2.b6b697d4.chunk.js",
+    "static/js/2.b6b697d4.chunk.js.map": "/react-projects-23-quiz-main/static/js/2.b6b697d4.chunk.js.map",
+    "static/js/3.84f1b76b.chunk.js": "/react-projects-23-quiz-main/static/js/3.84f1b76b.chunk.js",
+    "static/js/3.84f1b76b.chunk.js.map": "/react-projects-23-quiz-main/static/js/3.84f1b76b.chunk.js.map",
+    "index.html": "/react-projects-23-quiz-main/index.html",
+    "static/css/main.01fe1c5c.chunk.css.map": "/react-projects-23-quiz-main/static/css/main.01fe1c5c.chunk.css.map",
+    "static/js/2.b6b697d4.chunk.js.LICENSE.txt": "/react-projects-23-quiz-main/static/js/2.b6b697d4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-projects-23-quiz-main/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d139f234.js",
+    "static/js/2.b6b697d4.chunk.js",
+    "static/css/main.01fe1c5c.chunk.css",
+    "static/js/main.75f20a2a.chunk.js"
+  ]
+}
